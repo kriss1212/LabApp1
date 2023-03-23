@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\bin\Debug\net7.0\LabApp1.exe
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\bin\Debug\net7.0\LabApp1.deps.json
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\bin\Debug\net7.0\LabApp1.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\bin\Debug\net7.0\LabApp1.dll
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\bin\Debug\net7.0\LabApp1.pdb
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.dll
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\refint\LabApp1.dll
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.pdb
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\LabApp1.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\LabApp1\LabApp1\obj\Debug\net7.0\ref\LabApp1.dll
